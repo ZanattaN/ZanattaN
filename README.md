@@ -1,16 +1,40 @@
-## Hi there 👋
+## Olá, eu sou o Gustavo Zanatta 👋
 
 <!--
 **ZanattaN/ZanattaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Atualmente, estou em busca de um **estágio na área de infraestrutura de redes ou defesa cibernética**.
+
+🌱 Estou estudando e desenvolvendo minhas habilidades em:
+- Redes de computadores (roteamento, protocolos, segurança)
+- Linux e Windows Server
+- Segurança da informação e fundamentos de cibersegurança
+- Ferramentas como Wireshark, Nmap e VirtualBox
+- Conceitos básicos de computação em nuvem
+
+👯 Procuro colaborar em projetos que envolvam:
+- Monitoramento e análise de redes
+- Automatização de tarefas administrativas
+- Segurança ofensiva e defensiva (pentest, firewall, IDS/IPS)
+
+🤔 Estou em busca de ajuda com:
+- Melhoria de portfólio técnico para a área de redes/cibersegurança
+- Experiência prática com ambientes reais ou simulados
+- Certificações recomendadas para iniciantes (como CompTIA, Cisco, etc.)
+
+💬 Fique à vontade para me chamar para conversar sobre:
+- Carreira na área de TI (especialmente infraestrutura)
+- Projetos voltados para segurança e redes
+- Dúvidas iniciais sobre o mercado de trabalho em tecnologia
+
+📫 Como falar comigo:
+- Email: gustavo.seuemail@exemplo.com
+- LinkedIn: [linkedin.com/in/seulink](https://linkedin.com/in/seulink)
+- GitHub: [github.com/seunome](https://github.com/seunome)
+
+😄 Pronomes: ele/dele
+
+⚡ Curiosidade: Comecei minha jornada em TI por curiosidade em como a internet funciona e acabei apaixonado por redes e segurança! 🚀
+
