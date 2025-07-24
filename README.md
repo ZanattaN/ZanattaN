@@ -1,3 +1,15 @@
+<h2>📊 GitHub Stats</h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZanattaN&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<h2>💻 Linguagens mais usadas</h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavozanatta&layout=compact&theme=dracula" alt="Top Languages"/>
+</p>
+
 ## Olá, eu sou o Gustavo Zanatta 👋
 
 🔭 Atualmente, estou em busca de um **estágio na área de infraestrutura de redes ou defesa cibernética**.
@@ -27,3 +39,6 @@
 📫 Como falar comigo:
 - Email: zanatta27@outlook.com
 - LinkedIn: [www.linkedin.com/in/gustavo-zanatta-54a152263]
+
+
+
