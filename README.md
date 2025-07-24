@@ -59,9 +59,3 @@
 
 ⚡ Curiosidade: Comecei minha jornada em TI por curiosidade em como a internet funciona e acabei apaixonado por redes e segurança! 🚀
 
-- GitHub: [github.com/seunome](https://github.com/seunome)
-
-😄 Pronomes: ele/dele
-
-⚡ Curiosidade: Comecei minha jornada em TI por curiosidade em como a internet funciona e acabei apaixonado por redes e segurança! 🚀
-
