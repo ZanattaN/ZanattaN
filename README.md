@@ -1,14 +1,11 @@
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats & Linguagens
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ZanattaN&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZanattaN&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanattaN&layout=compact&theme=radical" width="48%"/>
 </p>
 
-<h2>💻 Linguagens mais usadas</h2>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavozanatta&layout=compact&theme=dracula" alt="Top Languages"/>
-</p>
 
 ## Olá, eu sou o Gustavo Zanatta 👋
 
